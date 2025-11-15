@@ -37,22 +37,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/dhanvanth342/my-views-counter/tree/master/readme/963427388/year.md">
-				TAVI
-			</a>
-		</td>
-		<td>
-			2025/11/13 12:58 AM UTC
-		</td>
-		<td>
-			76
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/dhanvanth342/my-views-counter/raw/master/graph/963427388/small/year.png" height="20"> 751
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/dhanvanth342/my-views-counter/tree/master/readme/906124955/year.md">
 				Math-Behind-Machine-Learning
 			</a>
@@ -85,7 +69,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/11/15 12:21 PM UTC</i></small>
+<small><i>Last updated on 2025/11/15 6:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
