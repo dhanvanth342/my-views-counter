@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/16 1:18 AM UTC
+			2026/2/17 1:17 AM UTC
 		</td>
 		<td>
 			56
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/16 1:18 AM UTC
+			2026/2/17 1:17 AM UTC
 		</td>
 		<td>
 			85
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2026/2/16 1:18 AM UTC
+			2026/2/17 1:17 AM UTC
 		</td>
 		<td>
 			52
@@ -67,9 +67,25 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/dhanvanth342/my-views-counter/raw/master/graph/906124955/small/year.png" height="20"> 196
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/dhanvanth342/my-views-counter/tree/master/readme/925796554/year.md">
+				Eats-Guide
+			</a>
+		</td>
+		<td>
+			2026/2/17 1:17 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/dhanvanth342/my-views-counter/raw/master/graph/925796554/small/year.png" height="20"> 9
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/18 6:40 PM UTC</i></small>
+<small><i>Last updated on 2026/2/19 1:19 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
